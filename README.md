@@ -1,4 +1,4 @@
-# RestAssuredTesting
+# rest-assured-testing
 
 A REST Assured test automation framework using Cucumber and TestNG for validating CRUD operations on the Petstore Swagger API (`https://petstore.swagger.io/v2`).
 
